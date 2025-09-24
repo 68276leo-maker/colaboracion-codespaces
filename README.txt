@@ -1,13 +1,15 @@
-Alumno B debe crear un fork del repositorio, abrir en Codespaces y
-crear un programa en Python llamado saludo.py que pida el nombre del usuario y muestre un
-mensaje de bienvenida.
+# Instrucciones para Alumno B
 
-Alumno B – Hacer un fork y trabajar en Codespaces
-1. Ir al repositorio de Alumno A y hacer **Fork**.  
+## Pasos a seguir
+
+1. Hacer **Fork** del repositorio de Alumno A en GitHub.  
 2. Abrir el fork en **Codespaces**.  
-3. Crear un archivo llamado `saludo.py` con un programa en Python que:  
+3. Crear un archivo llamado `saludo.py` que:  
    - Pida el nombre del usuario.  
    - Muestre un mensaje de bienvenida en pantalla.  
-4. Probar que el programa funciona en Codespaces.  
-5. Hacer **commit** y **push** de los cambios.  
-6. Desde GitHub, crear un **Pull Request** al repositorio original de Alumno A.
+4. Guardar y ejecutar el programa en Codespaces para verificar que funciona.  
+5. Hacer **commit** y **push** de los cambios en tu fork.  
+6. Desde GitHub, crear un **Pull Request** al repositorio original de Alumno A.  
+7. Una vez que Alumno A acepte el Pull Request, sincronizar tu fork:  
+   - Ir a tu fork en GitHub → **Fetch upstream** → **Fetch and merge**.  
+   - Confirmar que `saludo.py` y `README.md` estén actualizados.
